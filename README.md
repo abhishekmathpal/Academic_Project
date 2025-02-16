@@ -1,4 +1,4 @@
-# Academic Performance Analysis Dashboard
+# 📚 Academic Performance Analysis Dashboard
 Designed and developed an interactive Power BI dashboard to analyze academic performance metrics. The project includes data visualization for student grades, subject-wise performance, and trends over time, enabling educators to make data-driven decisions. Implemented KPIs, drill-through features, and filters to enhance usability. This dashboard helps in identifying performance gaps and improving educational strategies.
 
 # 📊 Project Overview
